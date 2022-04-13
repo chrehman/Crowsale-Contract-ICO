@@ -1,5 +1,6 @@
-# Crowdsale Discription
-- This contract will be responsible to allow users to exchange ETH for our Pako Token. In order to do that we need to Set a price for our token (1 ETH or BNB = 100 Pako Token)
+# Crowdsale ICO Project Discription
+- User can create ERC20 Token Pako token with the of @openzepplin-contracts.
+- Crowdsale contract will be responsible to allow users to exchange ETH or BNB for our Pako Token. In order to do that we need to Set a price for our token (1 ETH or BNB = 100 Pako Token)
 
 - Emit a BuyTokens event that will log who’s the buyer, the amount of ETH or BNB sent and the amount of Token bought
 
