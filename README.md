@@ -9,6 +9,7 @@
 - Owner can Transfer the ownership of the Crowd Sale contract to other address so that he will be able to withdraw the ETH Or BNB.
 - User can buy PAKO by callling buyToken function of crowdsale contract.
 - Owner can withdraw all ETH or BNB from crowdasle contract buy calling withdrawFunds function.
+- If you like the project please give ⭐
 
 # Advanced Sample Hardhat Project
 
