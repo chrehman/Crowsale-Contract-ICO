@@ -1,13 +1,13 @@
-#Crowdsale Discription
--This contract will be responsible to allow users to exchange ETH for our Pako Token. In order to do that we need to Set a price for our token (1 ETH or BNB = 100 Pako Token)
+# Crowdsale Discription
+- This contract will be responsible to allow users to exchange ETH for our Pako Token. In order to do that we need to Set a price for our token (1 ETH or BNB = 100 Pako Token)
 
--Emit a BuyTokens event that will log who’s the buyer, the amount of ETH or BNB sent and the amount of Token bought
+- Emit a BuyTokens event that will log who’s the buyer, the amount of ETH or BNB sent and the amount of Token bought
 
--Transfer 75% the Tokens to the Crowd Sale contract at deployment time. i.e. Right after the contract is deployed, we want the token contract to send 75% of our token supply to it. While 25% remain in our personal “owner” account.
+- Transfer 75% the Tokens to the Crowd Sale contract at deployment time. i.e. Right after the contract is deployed, we want the token contract to send 75% of our token supply to it. While 25% remain in our personal “owner” account.
 
--Owner can Transfer the ownership of the Crowd Sale contract to other address so that he will be able to withdraw the ETH Or BNB.
--User can buy PAKO by callling buyToken function of crowdsale contract.
--Owner can withdraw all ETH or BNB from crowdasle contract buy calling withdrawFunds function.
+- Owner can Transfer the ownership of the Crowd Sale contract to other address so that he will be able to withdraw the ETH Or BNB.
+- User can buy PAKO by callling buyToken function of crowdsale contract.
+- Owner can withdraw all ETH or BNB from crowdasle contract buy calling withdrawFunds function.
 
 # Advanced Sample Hardhat Project
 
